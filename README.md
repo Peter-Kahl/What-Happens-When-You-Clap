@@ -14,6 +14,8 @@ by Peter Kahl, 2025-10-22; v4: 2025-11-01
 
 ## Abstract
 
+For nearly seven decades, psychology has operated on a mistaken ontology of truth. _What Happens When You Clap_ restores its philosophical foundation by showing that knowing is relational, fiduciary, and co-authored — not alignment with an external constant.
+
 This study offers a multidisciplinary synthesis bridging psychology, philosophy, and governance. It redefines cognition, trust, and truth as one fiduciary process that links the dynamics of individual minds with the ethics of institutions.
 
 The inquiry begins with a simple scene: a theatre audience applauding a mediocre performance, and one spectator who hesitates to join. From this moment unfolds the _Relational Theory of Epistemic Clientelism_ (RTEC)—an extension of _Epistemic Clientelism Theory_ (ECT) that explains how truth is continually negotiated through trust, recognition, and dependence. The hesitation before applause becomes a micro-experiment in epistemic life, revealing how knowledge arises not from correspondence with an external reality but from fiduciary relations between perceiving minds.
